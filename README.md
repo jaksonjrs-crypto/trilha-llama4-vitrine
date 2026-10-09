@@ -1,3 +1,5 @@
+🚀 **Site ao vivo:** https://jaksonjrs-crypto.github.io/trilha-llama4-vitrine/
+
 # Trilha Llama 4 Aplicado a E-commerce - Vitrine dos Achados
 **Autor:** Jakson Rodrigues Silva - Montes Claros, MG
 **Tecnologias:** Meta AI Llama 4 Maverick & Scout, Prompt Engineering, Multimodal
@@ -26,8 +28,8 @@ Arquivo: index.html (esta página)
 Portfolio final com certificado, projetos e deploy
 
 ## 🔗 Links
-- LinkedIn: https://www.linkedin.com/in/jakson-rodrigues/
-- Instagram Loja: @minhavitrinedosachados
+- 💼 [Post LinkedIn Aula 1](https://lnkd.in/p/dXhQGZt2)
+- 📱 [Carrossel Instagram - Espremedor](https://www.instagram.com/p/DeQFt3nDq2t/)
 - Loja: Vitrine dos Achados
 
 #MetaAI #Llama4 #InteligenciaArtificial #Ecommerce #PromptEngineering
