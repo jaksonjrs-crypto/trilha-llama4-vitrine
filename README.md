@@ -25,17 +25,6 @@ Arquivo: index.html (esta página)
 ### Aula 5 - Portfólio e Deploy GitHub
 Portfolio final com certificado, projetos e deploy
 
-## 🚀 Como usar
-1. Abra index.html
-2. Cole seu link de afiliado Shopee/Mercado Livre no topo
-3. Copie o link da página e coloque na bio
-
-## 📦 Conteúdo do ZIP
-- index.html - Landing page principal (para GitHub Pages)
-- imagens/ - 6 fotos do carrossel ordenadas
-- projetos/ - Portfolio, preview carrossel, certificado
-- README.md - Este arquivo
-
 ## 🔗 Links
 - LinkedIn: https://www.linkedin.com/in/jakson-rodrigues/
 - Instagram Loja: @minhavitrinedosachados
